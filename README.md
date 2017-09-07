@@ -23,5 +23,19 @@ Following are the list of documents available for reference:
 1) Deployment guide: To get the solution deployed on an Azure account.
 2) User guide: To configure & use the solution deployed.
 
+## List of reference hardware (on premise)
+
+Dent Instruments PowerScout P3037
+
+CTScanner (which can work with PowerScout): could be RoCoil or Clamp
+
+Dell 5000 Gateway (which can install PIServer interfaces & connectors)
+
+WiFi Sensortag Manager
+
+WiFi Sensortag 
+
+## Not in scope of this accelerator
+Any details on the licenced components, eg: OSISoft PIServer. Only configuration steps are provided to get started. User has to make sure relevant licences etc. are purchased before starting.
 
 
