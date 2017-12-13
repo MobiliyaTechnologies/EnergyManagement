@@ -16,6 +16,7 @@ Following are the repositories relevant for the accelerator:
 6) PowerBI: Reports & visualization templates.
 7) RESTServer: Backend server for the solution.
 8) WebApp: Frontend web application for the solution.
+9) IoT-Edge: Azure IoT edge custom modules.
 
 ## List of Documents
 Following are the list of documents available for reference:
