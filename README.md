@@ -17,6 +17,7 @@ Following are the repositories relevant for the accelerator:
 7) RESTServer: Backend server for the solution.
 8) WebApp: Frontend web application for the solution.
 9) IoT-Edge: Azure IoT edge custom modules.
+10) WirelessConnectivity: Fetch Sensor Data from WirelessTag Utility.
 
 ## List of Documents
 Following are the list of documents available for reference:
