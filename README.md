@@ -8,16 +8,16 @@ Energy Management Solution Accelerator
 ## List of Repositories
 Following are the repositories relevant for the accelerator:
 
-1) ARMTemplate: Azure Resource Manager template for the solution.
-2) ConnectorService: Special connector service to fetch sensor data.
-3) DataScience: This is the ML experiment for anomaly detection & prediction.
-4) DataService: Bridge between on-premise & cloud components.
-5) MobileApplication: Xamarin based iOS & Android application.
-6) PowerBI: Reports & visualization templates.
-7) RESTServer: Backend server for the solution.
-8) WebApp: Frontend web application for the solution.
-9) IoT-Edge: Azure IoT edge custom modules.
-10) WirelessConnectivity: Fetch Sensor Data from WirelessTag Utility.
+1) [ARMTemplate](https://github.com/MobiliyaTechnologies/ARM-Templates): Azure Resource Manager template for the solution.
+2) [ConnectorService](https://github.com/MobiliyaTechnologies/ConnectorService): Special connector service to fetch sensor data.
+3) [DataScience](https://github.com/MobiliyaTechnologies/DataScience): This is the ML experiment for anomaly detection & prediction.
+4) [DataService](https://github.com/MobiliyaTechnologies/DataService): Bridge between on-premise & cloud components.
+5) [MobileApplication](https://github.com/MobiliyaTechnologies/MobileApplication): Xamarin based iOS & Android application.
+6) [PowerBI](https://github.com/MobiliyaTechnologies/PowerBI): Reports & visualization templates.
+7) [RESTServer](https://github.com/MobiliyaTechnologies/RESTServer): Backend server for the solution.
+8) [WebApp](https://github.com/MobiliyaTechnologies/WebApp): Frontend web application for the solution.
+9) [IoT-Edge](https://github.com/MobiliyaTechnologies/IoT-Edge): Azure IoT edge custom modules.
+10) [WirelessConnectivity](https://github.com/MobiliyaTechnologies/WirelessConnnectivity): Fetch Sensor Data from WirelessTag Utility.
 
 ## List of Documents
 Following are the list of documents available for reference:
